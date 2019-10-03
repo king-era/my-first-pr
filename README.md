@@ -146,4 +146,5 @@
 - [@harshitmoriya](https://github.com/Harshitmoriya)
 
 -[@Magraa](https://github.com/Magraa)
+-[@king-era]((https://github.com/king-era)
 
